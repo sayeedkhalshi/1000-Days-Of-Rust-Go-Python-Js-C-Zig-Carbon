@@ -1,0 +1,9 @@
+Problem 11: Container With Most Water
+
+Description:
+Given an array of non-negative integers height, where each integer represents the height of a vertical line, determine the maximum area that can be formed by two of the lines, when positioned parallel to the x-axis.
+
+Example:
+
+Input: [1,8,6,2,5,4,8,3,7]
+Output: 49
