@@ -1,0 +1,27 @@
+Problem 15: Edit Distance
+
+Description:
+Given two words word1 and word2, find the minimum number of operations required to convert word1 to word2.
+
+You have the following three operations permitted on a word:
+
+Insert a character
+Delete a character
+Replace a character
+Example:
+
+Input: word1 = "horse", word2 = "ros"
+Output: 3
+Explanation: 
+- Replace 'h' with 'r'.
+- Remove 'o'.
+- Remove 'e'.
+
+Input: word1 = "intention", word2 = "execution"
+Output: 5
+Explanation:
+- Remove 'i'.
+- Remove 'n'.
+- Remove 't'.
+- Replace 'e' with 'x'.
+- Add 'c' at the end.
