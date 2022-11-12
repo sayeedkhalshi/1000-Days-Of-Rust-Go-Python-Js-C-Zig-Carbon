@@ -1,0 +1,13 @@
+Problem 19: Longest Palindromic Substring
+
+Description:
+Given a string s, find the longest palindromic substring in s. You may assume that the maximum length of s is 1000.
+
+Example:
+
+Input: "babad"
+Output: "bab" or "aba"
+Explanation: Both "bab" and "aba" are valid answers.
+
+Input: "cbbd"
+Output: "bb"
